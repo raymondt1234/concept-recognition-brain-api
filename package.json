@@ -1,0 +1,15 @@
+{
+  "name": "concept-recognition-brain-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module" ,
+  "scripts": {
+    "start": "nodemon server"
+  },
+  "author": "Raymond Terry",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
